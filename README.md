@@ -1,5 +1,5 @@
 # NeDemoExam
-![ТОПОЛОГИЯ](HTTPS://GITHUB.COM)/ALCIEDT/NEDEMOEXAM/BLOB/MAIN/SCREENSHOT 2024-05-19 AT 12.28.28 PM.PNG
+![ТОПОЛОГИЯ](https://github.com)/AlcieDt/NeDemoExam/blob/main/Screenshot 2024-05-19 at 12.28.28 PM.png
 
 ISP
 
