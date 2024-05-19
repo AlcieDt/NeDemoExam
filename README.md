@@ -1,5 +1,5 @@
 # NeDemoExam
-![ТОПОЛОГИЯ](https://github.com)/AlcieDt/NeDemoExam/blob/main/Screenshot 2024-05-19 at 12.28.28 PM.png
+![-](https://github.com)/AlcieDt/NeDemoExam/blob/main/rek
 
 ISP
 
