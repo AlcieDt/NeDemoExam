@@ -1,6 +1,11 @@
 # NeDemoExam
 ![reks](https://github.com/AlcieDt/NeDemoExam/assets/151376255/49f4b6f8-4d38-4173-8d15-dcbe40ff331a)
 
+https://teletype.in/@swka32/6L7HIsieL5L#b7AC - телетайп
+еще кого-то https://vxsetup.tilda.ws/
+еще кого-то http://wiki.pantsuh.ru/ru/Demo-2024
+еще кого-то https://github.com/abdurrah1m/DEMO2024/tree/main
+
 ISP
 
 systemctl restart network NetworkManager frr.service 
